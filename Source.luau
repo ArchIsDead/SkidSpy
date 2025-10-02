@@ -102,8 +102,8 @@ LogTab:Button({
     end,
 })
 local Section = LogTab:Section({ 
-    Title = "HTTP Reauest",
-    Icon = "move-down"
+    Title = "HTTP Request",
+    Icon = "move-down",
     TextXAlignment = "Left",
     TextSize = 17, -- Default Size
 })
